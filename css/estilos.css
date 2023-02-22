@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: beige;
+    background-image: url(/images/images.jpg);
+    background-size: cover;
+}
+.fondoazul {
+    background-color: rgb(144, 144, 243);
+}
+
+.fondonegro {
+    background-color: rgb(124, 122, 122);
+}
+
+.altura1 {
+    height: 5rem;
+}
+
+.altura2 {
+    height: 5rem;
+}
+
+.fondorojo {
+    background-color: red;
+}
+
+.altura3 {
+    height: 20rem;
+}
